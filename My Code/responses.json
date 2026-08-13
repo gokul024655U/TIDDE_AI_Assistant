@@ -1,0 +1,15 @@
+{
+    "greetings": ["Hey, what’s up?", "Hello boss!", "Hi there!"],
+    "farewells": ["Goodbye!", "Catch you later!", "See you soon!"],
+    "jokes": [
+        "Why did the computer go to therapy? It had too many bytes!",
+        "Why do programmers hate nature? Too many bugs!",
+        "Why was the computer cold? It left its Windows open!",
+        "Why did the programmer quit his job? Because he didn't get arrays!",
+        "How do computers eat snacks? They byte!",
+        "Why did the developer go broke? Because he used up all his cache!",
+        "Why was the smartphone wearing glasses? It lost its contacts!",
+        "Why do Java developers wear glasses? Because they don't C#.",
+        "Why did the computer show up at work late? It had a hard drive!"
+    ]
+}
